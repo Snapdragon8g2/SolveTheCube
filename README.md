@@ -28,7 +28,7 @@ cd SolveTheCube
 
 2. Install dependencies:
 ```bash
-npm install react react-dom react-scripts
+npm install 
 ```
 
 3. Start the development server:

@@ -22,8 +22,8 @@ A fully interactive 3D Rubik's Cube simulation built with React.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rubiks-cube-simulation.git
-cd rubiks-cube-simulation
+git clone https://github.com/Snapdragon8g2/SolveTheCube.git
+cd SolveTheCube
 ```
 
 2. Install dependencies:
